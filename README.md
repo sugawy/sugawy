@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Lucas "sugawy" Brito. 23 from Portugal.</p>
+<p align="center">"sugawy" from Portugal.</p>
 
 ###
 
